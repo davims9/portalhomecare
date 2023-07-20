@@ -1,0 +1,114 @@
+@page {
+
+	size: 29.7cm 21.0cm landscape; /* a4 paper. */
+	counter-increment: page;
+	
+}
+
+.totalpag{
+    content: counter(page);
+  }
+
+@media print {
+
+	div.divFooter {
+	  position: fixed;
+	  bottom: 0;
+	  border-top:1.0pt solid windowtext;
+	}
+  }
+
+body {
+	height: 29.7cm;
+	width: 21cm;
+}
+
+div
+	{mso-height-source:auto;}	
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+
+	.paciente{
+		font-size: 12pt;
+		font-weight: bold;
+	}
+	
+td
+	{
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	color:black;
+	font-size:11.0pt;
+	font-style:normal;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	mso-rotate:0;
+	
+}
+
+hr{
+	align-self:left;
+	width:800px;
+	size:1;
+}
+
+.empresa{
+	font-size: 20pt;
+	align-self:left;
+}
+
+.camposcap1{
+	width: 80px;
+	vertical-align: top;
+}
+
+.camposcap2{
+	width: 210px;
+	vertical-align: top;
+}
+
+.camposcap3{
+	width: 470px;
+	vertical-align: top;
+}
+
+.obs{
+	width: 470px;
+	font-size: 13px;
+	vertical-align: top;
+	font-weight: normal;
+}
+
+.topodescr
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	mso-pattern:black none;}
+
+.grupo
+{
+	font-weight: bold;
+	font-size: 16pt;
+
+	
+}
+	
+
+.itens
+{
+	font-size: 14pt;
+	mso-style-parent:style0;
+	vertical-align:middle;
+	
+}

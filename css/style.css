@@ -1,0 +1,383 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #CCCCCC;
+}
+ .style1 {
+ 	font-family: Verdana, Arial, Helvetica, sans-serif; 
+ 	font-weight: bold; 
+ 	font-size: xx-large; 
+ 	color: #FFFFFF; 
+ } 
+  .style3 {
+ 	font-family: Verdana, Arial, Helvetica, sans-serif;
+ 	font-size: 10px;
+ 	font-weight: bold;
+ 	color: #FFFFFF;
+ }
+ .fundocadastrologin {
+ 	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #666666 1px solid; WIDTH: 102px; COLOR: #333333; LINE-HEIGHT: normal; BORDER-BOTTOM: #666666 1px solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 18px; BACKGROUND-COLOR: #eaedf4
+ }
+ 
+  .letraResposta {
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+ }
+
+.letraCinza {
+ color: #333333;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 12px;
+}
+a:link {
+color: #FFFFFF;
+}
+a:visited {
+color: #FFFFFF;
+}
+a:hover {
+color: #FFCC99;
+}
+a:active {
+color: #FFFFFF;
+}
+.style13 {color: #FFFFFF; font-weight: bold; font-size: 12px; }
+ 
+BODY {
+	FONT-SIZE: 10px; COLOR: #646464; FONT-FAMILY: verdana, arial
+}
+TD {
+	FONT-SIZE: 10px; COLOR: #646464; FONT-FAMILY: verdana, arial
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #efebef; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #efebef; SCROLLBAR-3DLIGHT-COLOR: #1e3c5a; SCROLLBAR-ARROW-COLOR: #1e3c5a; SCROLLBAR-TRACK-COLOR: #ffffff; SCROLLBAR-DARKSHADOW-COLOR: #1e3c5a
+}
+A {
+	COLOR: #646464; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #f07800; FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-FAMILY: verdana, arial; TEXT-DECORATION: none
+}
+.branco {
+	FONT-WEIGHT: bold; COLOR: #ffffff; FONT-FAMILY: verdana,arial
+}
+TD.just {
+	TEXT-ALIGN: justify
+}
+
+.style2 {font-size: 10px}
+.style5 {color: #FFFFFF}
+.style6 {font-size: 10px; color: #FFFFFF; }
+.style7 {color: #000000}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+a:active {
+	text-decoration: none;
+}
+
+.textfield {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+
+}
+
+.textfield2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: none;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+
+}
+
+.Botao {  font-family: Arial, Helvetica, sans-serif; font-size: xx-small; font-style: normal; border-style: ridge; border-top-width: thin; border-right-width: thin; border-bottom-width: thin; border-left-width: thin}
+.Area {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 200px;
+}
+.branco14 {
+	FONT-SIZE: 14px;
+	FONT-WEIGHT: bold; COLOR: #ffffff; FONT-FAMILY: verdana,arial
+	
+}
+
+.contrato {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 140px;
+}
+
+.tipoSoftware {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 170px;
+}
+
+.txtDivulgacao {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 230px;
+}
+
+.txtCapacidade {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 135px;
+}
+
+.txtCapacidade1 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 170px;
+}
+
+.txtModelo 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 450px;
+}
+
+.txtFornecedor
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 250px;
+}
+
+.txtFabricante
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 250px;
+}
+
+.txtTipoEquipamento 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 145px;
+}
+
+.txtTipoHD 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 120px;
+}
+
+.txtConsulta
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 180px;
+}
+
+.txtTipoMemoria 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 120px;
+}
+
+.txtSituacao
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 100px;
+}
+.txtCaracteristica 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 180px;
+}
+
+.txtTitulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 400px;
+}
+.txtUpload {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+}
+.textfield1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: groove;
+	border-right-style: groove;
+	border-bottom-style: groove;
+	border-left-style: groove;
+}
+.txtDivulgacao1 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 230px;
+}
+
+.txtDivulgacao2 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 300px;
+}
+.Area1 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-style: normal;
+	border-style: groove;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	width: 420px;
+}
